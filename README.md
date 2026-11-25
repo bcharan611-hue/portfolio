@@ -1,6 +1,6 @@
 Personal Portfolio Website
 
-Name: bcharn611hue
+Name: bcharan siva teja
 
 Student ID: 2500049043
 
